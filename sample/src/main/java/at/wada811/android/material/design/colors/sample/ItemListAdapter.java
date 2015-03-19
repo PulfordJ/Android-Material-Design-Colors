@@ -1,4 +1,4 @@
-package at.wada811.android.material.design.colors.sample;
+package com.wada811.android.material.design.colors.sample;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -7,7 +7,7 @@ import android.view.ViewGroup;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 import java.util.List;
-import at.wada811.android.material.design.colors.sample.color.ColorPalette.ColorGroup;
+import com.wada811.android.material.design.colors.sample.color.ColorPalette.ColorGroup;
 
 public class ItemListAdapter extends BindableAdapter<ColorGroup>{
 

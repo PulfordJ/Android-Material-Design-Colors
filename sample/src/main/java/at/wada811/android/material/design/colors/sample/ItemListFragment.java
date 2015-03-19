@@ -1,11 +1,11 @@
-package at.wada811.android.material.design.colors.sample;
+package com.wada811.android.material.design.colors.sample;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.support.v4.app.ListFragment;
 import android.view.View;
 import android.widget.ListView;
-import at.wada811.android.material.design.colors.sample.color.ColorPalette;
+import com.wada811.android.material.design.colors.sample.color.ColorPalette;
 
 public class ItemListFragment extends ListFragment{
 

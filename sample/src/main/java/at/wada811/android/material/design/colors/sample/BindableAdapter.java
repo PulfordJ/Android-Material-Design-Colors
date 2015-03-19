@@ -1,4 +1,4 @@
-package at.wada811.android.material.design.colors.sample;
+package com.wada811.android.material.design.colors.sample;
 
 import android.content.Context;
 import android.view.LayoutInflater;

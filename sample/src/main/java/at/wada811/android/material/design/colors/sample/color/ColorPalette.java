@@ -1,11 +1,11 @@
-package at.wada811.android.material.design.colors.sample.color;
+package com.wada811.android.material.design.colors.sample.color;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import at.wada811.android.material.design.colors.sample.R;
+import com.wada811.android.material.design.colors.sample.R;
 
 public class ColorPalette{
 

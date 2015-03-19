@@ -1,4 +1,4 @@
-package at.wada811.android.material.design.colors.sample;
+package com.wada811.android.material.design.colors.sample;
 
 import android.content.Intent;
 import android.graphics.Color;
@@ -9,8 +9,8 @@ import android.support.v7.app.ActionBarActivity;
 import android.text.Html;
 import android.view.MenuItem;
 import java.util.Locale;
-import at.wada811.android.material.design.colors.sample.color.ColorPalette;
-import at.wada811.android.material.design.colors.sample.color.ColorPalette.ColorGroup;
+import com.wada811.android.material.design.colors.sample.color.ColorPalette;
+import com.wada811.android.material.design.colors.sample.color.ColorPalette.ColorGroup;
 
 public class ItemDetailActivity extends ActionBarActivity{
 

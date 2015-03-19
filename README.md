@@ -5,7 +5,7 @@ Android-Material-Design-Colors
 Android-Material-Design-Colors provides [color definitions](https://github.com/wada811/Android-Material-Design-Colors/blob/master/library/src/main/res/values/colors.xml) of the Material Design.
 
 ## Demo
-[![Android app on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=at.wada811.android.material.design.colors.sample)
+[![Android app on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.wada811.android.material.design.colors.sample)
 
 ## Usage
 
@@ -25,7 +25,7 @@ repositories {
 }
 
 dependencies {
-    compile 'at.wada811:android-material-design-colors:1.2.0'
+    compile 'com.wada811:android-material-design-colors:1.2.0'
 }
 ```
 

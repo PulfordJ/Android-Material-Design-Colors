@@ -1,6 +1,6 @@
-package at.wada811.android.material.design.colors.sample.color;
+package com.wada811.android.material.design.colors.sample.color;
 
-import at.wada811.android.material.design.colors.sample.R;
+import com.wada811.android.material.design.colors.sample.R;
 
 public enum MaterialDesignColorRed implements MaterialDesignColor{
 

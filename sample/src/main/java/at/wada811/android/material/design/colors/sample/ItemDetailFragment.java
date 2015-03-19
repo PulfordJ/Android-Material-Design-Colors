@@ -1,4 +1,4 @@
-package at.wada811.android.material.design.colors.sample;
+package com.wada811.android.material.design.colors.sample;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -8,9 +8,9 @@ import android.view.View;
 import android.widget.ListView;
 import android.widget.Toast;
 import java.util.List;
-import at.wada811.android.material.design.colors.sample.color.ColorPalette;
-import at.wada811.android.material.design.colors.sample.color.ColorPalette.ColorGroup;
-import at.wada811.android.material.design.colors.sample.color.MaterialDesignColor;
+import com.wada811.android.material.design.colors.sample.color.ColorPalette;
+import com.wada811.android.material.design.colors.sample.color.ColorPalette.ColorGroup;
+import com.wada811.android.material.design.colors.sample.color.MaterialDesignColor;
 
 public class ItemDetailFragment extends ListFragment{
 
